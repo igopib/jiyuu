@@ -1,1 +1,1 @@
-# Jiyuu
+# Jiyuu - NFT Gated Webpage
